@@ -19,6 +19,7 @@ Supported models
 - [x] Ollama
 - [x] Grok
 - [x] OpenRouter
+- [x] Cerebras
 - [ ] Cloudflare Workers AI
 - [ ] Coze
 
